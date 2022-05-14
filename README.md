@@ -1,2 +1,2 @@
 # C-Basico
-Programas Básicos feitos no primeiro ano de faculdade.
+Programas Básicos feitos na faculdade.
